@@ -1,0 +1,4 @@
+[112]|112|bezet|Ajuma Bites|deal=528707718348|emaillen=20|opm=Zelfde exposant als 20|t=09:39:10
+[123]|123|vrij||deal=|emaillen=0|opm=Zelfde exposant als 20|t=09:39:10
+[123]|123|vrij||deal=|emaillen=0|opm=|t=09:39:10
+[112]|112|bezet|Ajuma Bites|deal=528707718348|emaillen=15|opm=Verplaatst van stand 1|t=09:39:10
