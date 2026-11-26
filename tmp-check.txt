@@ -1,4 +1,4 @@
-[112]|112|bezet|Ajuma Bites
-[123]|123|vrij|
-[123]|123|bezet|Ajuma Bites
-[112]|112|vrij|
+[112]|len=3|112|bezet|Ajuma Bites|deal=528707718348|optie=|getekend=|emaillen=20|opmlen=119|m2=9
+[123]|len=3|123|vrij||deal=|optie=|getekend=|emaillen=0|opmlen=119|m2=9
+[123]|len=3|123|bezet|Ajuma Bites|deal=528707718348|optie=|getekend=|emaillen=15|opmlen=142|m2=9
+[112]|len=3|112|vrij||deal=|optie=|getekend=|emaillen=0|opmlen=70|m2=9
